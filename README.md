@@ -1,3 +1,5 @@
+<!-- Venu Mandadi profile overview -->
+
 <p align="center">
   <img src="assets/banner.svg" width="100%" alt="Venu Mandadi portfolio banner" />
 </p>
@@ -94,4 +96,3 @@ Prodigy Infotech, March 2024 to April 2024
 ## Certifications
 
 AWS Certified Cloud Practitioner  •  MongoDB Python Developer Path  •  Automation Anywhere RPA Certification
-
