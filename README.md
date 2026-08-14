@@ -8,6 +8,7 @@
   <a href="mailto:venumandadi31@gmail.com">Email</a>&nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/venu-reddy-mandadi-82b78128a">LinkedIn</a>&nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://github.com/venu0376">GitHub</a>&nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="assets/resume/Venu_Mandadi_Resume.pdf">Resume</a>&nbsp;&nbsp;•&nbsp;&nbsp;
   Hyderabad, India
 </p>
 
