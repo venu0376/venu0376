@@ -22,6 +22,7 @@ I am a Computer Science graduate specialising in Artificial Intelligence and Mac
       <a href="https://github.com/venu0376/sampoorna-retail-platform"><img src="assets/projects/sampoorna.png" width="100%" alt="Sampoorna marketplace" /></a>
       <h3><a href="https://github.com/venu0376/sampoorna-retail-platform">Sampoorna Retail Platform</a></h3>
       <p>A 184-product ecommerce application with search, comparison, Jarvis support, cart, checkout, payment failures, inventory changes, delivery milestones, returns and order history.</p>
+      <p><a href="https://sampoorna-retail.vercel.app">Open the live application</a></p>
       <p><code>Next.js</code> <code>TypeScript</code> <code>Java</code> <code>Spring Boot</code> <code>Python</code> <code>FastAPI</code></p>
     </td>
     <td width="50%" valign="top">
